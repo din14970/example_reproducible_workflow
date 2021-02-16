@@ -1,0 +1,5 @@
+name: example
+channels:
+  - conda-forge
+dependencies:
+  - hyperspy=1.6.1
